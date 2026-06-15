@@ -12,5 +12,5 @@
 - JavaScript
 
 ## Author
-YPandibotla Varshini
+Pandibotla Varshini
 Intern Id : CITS4180
