@@ -1,4 +1,4 @@
-# Wine Quality Prediction
+# WineQualityPrediction
 
 ## Features
 - Enter Alcohol
